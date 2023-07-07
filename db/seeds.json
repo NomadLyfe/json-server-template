@@ -1,22 +1,22 @@
 {
   "users": [
     {
-      "name": "admin",
+      "id": "admin",
       "password": "admin"
     },
     {
-      "name": "abc",
+      "id": "abc",
       "password": "123"
     },
     {
-      "name": "def",
+      "id": "def",
       "password": "456"
     }
   ],
   "decks": [
     {
       "owner": "admin",
-      "name": "cEDH Zur!",
+      "id": "cEDH Zur!",
       "commander": "Zur the Enchanter",
       "cards": [
         {
@@ -481,7 +481,7 @@
     },
     {
       "owner": "def",
-      "name": "Goblins!",
+      "id": "Goblins!",
       "commander": "Krenko, Mob Boss",
       "cards": [
         {
@@ -847,7 +847,7 @@
     },
     {
       "owner": "abc",
-      "name": "Dragons!",
+      "id": "Dragons!",
       "commander": "The Ur-Dragon",
       "cards": [
         {
